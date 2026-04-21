@@ -122,5 +122,6 @@ public class DataType {
         System.out.println(Integer.toBinaryString(120)); // convert any number into binary, return and print a string
         System.out.println(Long.toBinaryString(Long.MAX_VALUE));
 
+
     }
 }
