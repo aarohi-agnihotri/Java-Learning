@@ -1,4 +1,4 @@
-package firstPackage;
+package JavaPlaylist;
 
 public class DataType {
     static void main() {  // main is shortcut
@@ -121,7 +121,5 @@ public class DataType {
 //      Integer is class, inside there is method toBinaryString
         System.out.println(Integer.toBinaryString(120)); // convert any number into binary, return and print a string
         System.out.println(Long.toBinaryString(Long.MAX_VALUE));
-
-
     }
 }

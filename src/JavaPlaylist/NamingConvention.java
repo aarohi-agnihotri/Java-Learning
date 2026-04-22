@@ -1,4 +1,4 @@
-package firstPackage;
+package JavaPlaylist;
 
 public class NamingConvention {
     public static void main(String[] args) {
