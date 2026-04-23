@@ -4,4 +4,5 @@ public class StringVar{
 //        String is a class, and class is a blueprint of objects, so in java we can create string objects
 
     }
+
 }
